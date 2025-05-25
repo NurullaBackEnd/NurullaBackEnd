@@ -1,5 +1,7 @@
-# 💫 About Me:
+# 👋 Hi, I'm Nurulla
 My name is Nurulla and I'm IT guy.I m just loving programming.
+ 
+ ![Profile Views](https://komarev.com/ghpvc/?username=NurullaBackEnd&style=for-the-badge&color=blue)
 
 
 ## 🌐 Socials:
